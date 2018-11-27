@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProfesionalApiFortnite</string>
+    <string-array name="platforms">
+        <item>pc</item>
+        <item>psn</item>
+        <item>xbl</item>
+    </string-array>
+</resources>
